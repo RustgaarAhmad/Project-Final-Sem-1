@@ -1,0 +1,3 @@
+admin;admin@gmail.com;12345
+ahmad;ahmad@gmail.com;1234
+ali;ali@gmail.com;123
